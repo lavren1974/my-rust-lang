@@ -144,3 +144,11 @@ rustup which rustc
 ---
 
 cargo add tokio --features full
+
+
+---
+
+https://doc.rust-lang.org/book/
+
+https://play.rust-lang.org/?version=stable&mode=debug&edition=2021
+
