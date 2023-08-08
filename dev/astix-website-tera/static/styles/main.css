@@ -1,0 +1,21 @@
+nav ul {
+    display: flex;
+    justify-content: right;
+}
+
+nav ul li {
+    margin-right: 37px;
+    list-style-type: none;
+}
+
+nav ul li a {
+    font-size: 24px;
+    color: black;
+    text-decoration: none;
+}
+
+h1 {
+    font-size: 36px;
+    text-align: center;
+    margin: 50px 0;
+}
